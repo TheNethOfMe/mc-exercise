@@ -5,6 +5,8 @@ This is what Bob & Carol did on Bob's computer when working on the first feature
 
 Hello, my name is Ted and I do Ted things. One Ted thing that I do is to write this Ted code on my Ted branch in in this git repo. I'm even doing it from my Ted laptop. I'm f***ing TED!
 
+Hi i'm Alice, though my pronoun is He. Im on my personal machine working on code because i'm late as usual. I have no concept of time really.
+
 Yeah they wishin' and wishin' and wishin' and wishin'
 They wishin' on me, yuh
 I been movin' calm, don't start no trouble with me
@@ -58,3 +60,5 @@ It's a lot of bad things
 That they wishin' and wishin' and wishin' and wishin'
 They wishin' on me
 Yeah
+
+
